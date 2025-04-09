@@ -1,0 +1,67 @@
+{
+  "reviews": [
+    {
+      "sort_timestamp": 1634275259292,
+      "rating": 5.0,
+      "helpful_votes": 12,
+      "title": "Great value for DIY nails",
+      "text": "These artificial nails are perfect for DIY manicures. The material is durable and they're very easy to trim and shape. Love that they're non-toxic and don't have any strong chemical smell. Only downside is you need to buy adhesive separately.",
+      "verified_purchase": true,
+      "user_id": "AEYORY2AVPMCPDV57CE337YU5LXA"
+    },
+    {
+      "sort_timestamp": 1634185259292,
+      "rating": 2.0,
+      "helpful_votes": 8,
+      "title": "Size issues",
+      "text": "While the quality seems decent, these run way too small. I have average sized nails but these barely covered half my nail bed. The material is good but sizing is a major issue. Would not recommend unless you have very small nails.",
+      "verified_purchase": true,
+      "user_id": "BFYORY3AVPMCPDV57CE337YU5LXB"
+    },
+    {
+      "sort_timestamp": 1634075259292,
+      "rating": 4.0,
+      "helpful_votes": 3,
+      "title": "Good with some preparation",
+      "text": "Nice transparent nails that look natural when applied properly. The ABS material feels lightweight and comfortable. You'll need to spend time trimming and shaping them, and definitely get good quality glue. Worth the effort for the price.",
+      "verified_purchase": true,
+      "user_id": "CFYORY4AVPMCPDV57CE337YU5LXC"
+    },
+    {
+      "sort_timestamp": 1633975259292,
+      "rating": 3.0,
+      "helpful_votes": 5,
+      "title": "Mixed feelings",
+      "text": "The environmental-friendly material is great and they're very breathable. However, they're a bit flimsy and some pieces came damaged. The size variety could be better. Good for occasional use but not durable enough for regular wear.",
+      "verified_purchase": true,
+      "user_id": "DFYORY5AVPMCPDV57CE337YU5LXD"
+    },
+    {
+      "sort_timestamp": 1633875259292,
+      "rating": 5.0,
+      "helpful_votes": 15,
+      "title": "Perfect for customization",
+      "text": "Absolutely love how customizable these are! I can shape them exactly how I want. The transparent material takes nail polish beautifully. They're lightweight and comfortable for long wear. Just make sure to use quality adhesive for best results.",
+      "verified_purchase": true,
+      "user_id": "EFYORY6AVPMCPDV57CE337YU5LXE"
+    },
+    {
+      "sort_timestamp": 1633775259292,
+      "rating": 1.0,
+      "helpful_votes": 20,
+      "title": "Waste of money",
+      "text": "These nails are extremely thin and break easily. Half of them were too small to use. The 'environmental friendly' material feels like cheap plastic. Save your money and buy a better quality set. Very disappointed with this purchase.",
+      "verified_purchase": true,
+      "user_id": "FFYORY7AVPMCPDV57CE337YU5LXF"
+    },
+    {
+      "sort_timestamp": 1633675259292,
+      "rating": 4.0,
+      "helpful_votes": 7,
+      "title": "Great for beginners",
+      "text": "As someone new to artificial nails, these are perfect for practicing. They're inexpensive enough that mistakes don't feel costly. The material is forgiving when filing and shaping. Would recommend for DIY beginners, just buy good glue!",
+      "verified_purchase": true,
+      "user_id": "GFYORY8AVPMCPDV57CE337YU5LXG"
+    }
+  ]
+}
